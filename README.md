@@ -6,7 +6,7 @@
 ___
 **CPU**: AMD Ryzen 5 5600X Tray
 ___
-**VGA**: ~NVIDIA Gefore 840M~ => NVIDIA Geforce RTX 3060
+**GPU**: ~NVIDIA Gefore 840M~ => NVIDIA Geforce RTX 3060
 ___
 **Motherboard**: Asus ROG Strix B550-F Gaming Wi-Fi
 ___
