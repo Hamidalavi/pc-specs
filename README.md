@@ -6,7 +6,7 @@
 ___
 **CPU**: AMD Ryzen 5 5600X Tray
 ___
-**VGA**: ~NVIDIA Gefore 840M~ NVIDIA Geforce RTX 3060
+**VGA**: ~NVIDIA Gefore 840M~ => NVIDIA Geforce RTX 3060
 ___
 **Motherboard**: Asus ROG Strix B550-F Gaming Wi-Fi
 ___
@@ -18,7 +18,7 @@ ___
 ___
 **Cooler**: Cooler Master Masterliquid ML120L V2 Red
 ___
-**Mouse**: AULA S31 800/100/1200 DPI
+**Mouse**: ~AULA S31 800/1000/1200 DPI~ => Logitech G Pro X Superlight Wireless
 ___
 **Keyboard**: T-Dagger Bora RGB Mechanical
 ___
