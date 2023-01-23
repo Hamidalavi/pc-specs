@@ -89,6 +89,7 @@ ___
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 
 ## Repository Stats:
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 ![Size](https://img.shields.io/badge/size-6.57kB-blue)
 ![CheckPass](https://shields.io/badge/checks-passing-brightgreen)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130?color=purple&label=discord%20chat)
