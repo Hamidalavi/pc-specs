@@ -10,7 +10,7 @@ ___
 ___
 **Motherboard**: Asus ROG Strix B550-F Gaming Wi-Fi
 ___
-**RAM**: ~Komputerbay 1GB DDR SODIMM~ => Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16
+**RAM**: ~Komputerbay 1GB DDR SODIMM~ => ~ASUS Laptop 8G~ => Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16
 ___
 **Power**: Thermaltake Smart RGB 700W Standard
 ___
