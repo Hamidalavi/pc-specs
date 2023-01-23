@@ -57,10 +57,6 @@ ___
 
 ##  Game Consoles:
 [![Playstation](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://www.playstation.com/en-us)
-![Playstation 2](https://img.shields.io/badge/Playstation%201/5-003791?style=for-the-badge&logo=playstation-2&logoColor=white)
-![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
-![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)
-![Playstation 5](https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)
 ![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white)
 ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
