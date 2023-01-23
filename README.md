@@ -79,8 +79,9 @@ ___
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
-Technologies:
+## Technologies:
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD-FFA500.svg?style=for-the-badge&logo=AMD&logoColor=white)
 
 ## Repository Stats:
 ![Size](https://img.shields.io/badge/size-1kB-blue)
