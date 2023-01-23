@@ -89,7 +89,7 @@ ___
 ![F Droid](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)
 
 ## Repository Stats:
-![Size](https://img.shields.io/badge/size-6.24kB-blue)
+![Size](https://img.shields.io/badge/size-6.57kB-blue)
 ![CheckPass](https://shields.io/badge/checks-passing-brightgreen)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130?color=purple&label=discord%20chat)
 ![TotalDownloads](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
