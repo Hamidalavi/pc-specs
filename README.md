@@ -22,7 +22,7 @@ ___
 ___
 **Keyboard**: ~ERSCH K-918~ => T-Dagger Bora RGB Mechanical
 ___
-**Monitor**: ~Laptop with 60fps~ => Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
+**Monitor**: ~ASUS Laptop with 60fps~ => Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
 ___
 **Webcam**: Redragon Hitman GW800
 
