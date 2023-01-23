@@ -84,7 +84,7 @@ ___
 ![AMD](https://img.shields.io/badge/AMD-F6A21E.svg?style=for-the-badge&logo=AMD&logoColor=white)
 
 ## Repository Stats:
-![Size](https://img.shields.io/badge/size-7.41kB-blue)
+![Size](https://img.shields.io/badge/size-6.24kB-blue)
 ![CheckPass](https://shields.io/badge/checks-passing-brightgreen)
 ![DiscordOnline](https://img.shields.io/discord/852100868303749130?color=purple&label=discord%20chat)
 ![TotalDownloads](https://img.shields.io/github/downloads/Hamidalavi/CSS-step-by-step/total)
