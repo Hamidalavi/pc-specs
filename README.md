@@ -10,7 +10,7 @@ ___
 ___
 **Motherboard**: Asus ROG Strix B550-F Gaming Wi-Fi
 ___
-**RAM**: Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16
+**RAM**: ~Komputerbay 1GB DDR SODIMM~ => Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16
 ___
 **Power**: Thermaltake Smart RGB 700W Standard
 ___
@@ -18,11 +18,11 @@ ___
 ___
 **Cooler**: Cooler Master Masterliquid ML120L V2 Red
 ___
-**Mouse**: ~AULA S31 800/1000/1200 DPI~ => Logitech G Pro X Superlight Wireless
+**Mouse**: ~AULA S31 800/1000/1200 DPI~ => Logitech G Pro X Superlight Wireless 100-25600 DPI
 ___
-**Keyboard**: T-Dagger Bora RGB Mechanical
+**Keyboard**: ~ERSCH K-918~ => T-Dagger Bora RGB Mechanical
 ___
-**Monitor**: Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
+**Monitor**: ~Laptop with 60fps~ => Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
 ___
 **Webcam**: Redragon Hitman GW800
 
