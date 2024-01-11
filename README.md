@@ -20,7 +20,7 @@ ___
 ___
 **Mouse**: ~AULA S31 800/1000/1200 DPI~ => Logitech G Pro X Superlight Wireless 100-25600 DPI
 ___
-**Keyboard**: ~ERSCH K-918~ => T-Dagger Bora RGB Mechanical
+**Keyboard**: ~ERSCH K-918~ => ~T-Dagger Bora RGB Mechanical~ => Cooler Master MS110 RGB Mechanical-Membrane  Gaming Keyboard
 ___
 **Monitor**: ~ASUS Laptop with 60fps~ => Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
 ___
