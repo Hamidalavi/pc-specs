@@ -28,7 +28,7 @@ ___
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
-[![DonatePaypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://reymit.ir/examid6540/international-donate)
+[![DonatePaypal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://reymit.ir/examid6540?int)
 
 ## Social Media:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Examid6540)
