@@ -6,7 +6,7 @@
 > Sharkoon TG4 RGB
 ___
 **CPU**:
-> Intel Corei7-14700k 20C 28T
+> Intel Core i7-14700k 20C 28T
 >> ~AMD Ryzen 5 5600X Tray 6C 12T~
 ___
 **GPU**:
