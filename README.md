@@ -6,23 +6,23 @@
 > Sharkoon TG4 RGB
 ___
 **CPU**:
-> ~AMD Ryzen 5 5600X Tray 6C 12T~
->> Intel Corei7-14700k 20C 28T
+> Intel Corei7-14700k 20C 28T
+>> ~AMD Ryzen 5 5600X Tray 6C 12T~
 ___
 **GPU**:
-> ~NVIDIA Gefore 840M~
->> NVIDIA Geforce RTX 3060
-___
+> NVIDIA Geforce RTX 3060 OC 12GB
+>> ~NVIDIA Gefore 840M~
+---
 **Motherboard**:
-> ~Asus ROG Strix B550-F Gaming Wi-Fi~
->> Asus Prime Z790-P Wifi D5
-___
+> ASUS PRIME Z790-P Wi-Fi D5
+>> ~ASUS ROG Strix B550-F Gaming Wi-Fi D4~
+---
 **RAM**:
-> ~Komputerbay 1GB DDR SODIMM~
->> ~ASUS Laptop 8G~
->>> ~Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16~
->>>> G.Skill Trident Z5 RGB 2x16GB 6000Mhz CL36
-___
+> G.Skill Trident Z5 RGB 2x16GB 6000MHz CL36
+>> ~Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16~
+>>> ~ASUS Laptop 8G~
+>>>> ~Komputerbay 1GB DDR SODIMM~
+---
 **Power**:
 > Thermaltake Smart RGB 700W Standard
 ___
@@ -33,17 +33,17 @@ ___
 > Cooler Master Masterliquid ML120L V2 Red
 ___
 **Mouse**:
-> ~AULA S31 800/1000/1200 DPI~
 > Logitech G Pro X Superlight Wireless 100-25600 DPI
+>> ~AULA S31 800/1000/1200 DPI~
 ___
 **Keyboard**:
-> ~ERSCH K-918~
+> Cooler Master MS110 RGB Mechanical-Membrane Gaming Keyboard
 >> ~T-Dagger Bora RGB Mechanical~
->>> Cooler Master MS110 RGB Mechanical-Membrane  Gaming Keyboard
+>>> ~ERSCH K-918~
 ___
 **Monitor**:
-> ~ASUS Laptop with 60fps~
->> Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
+> Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
+>> ~ASUS Laptop with 60fps~
 ___
 **Webcam**:
 > Redragon Hitman GW800
