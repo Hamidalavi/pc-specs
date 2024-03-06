@@ -4,13 +4,23 @@
 
 **Case**: Sharkoon TG4 RGB
 ___
-**CPU**: AMD Ryzen 5 5600X Tray
+**CPU**:
+~AMD Ryzen 5 5600X Tray 6C 12T~
+Intel Corei7-14700k 20C 28T
 ___
-**GPU**: ~NVIDIA Gefore 840M~ => NVIDIA Geforce RTX 3060
+**GPU**:
+~NVIDIA Gefore 840M~
+NVIDIA Geforce RTX 3060
 ___
-**Motherboard**: Asus ROG Strix B550-F Gaming Wi-Fi
+**Motherboard**:
+~Asus ROG Strix B550-F Gaming Wi-Fi~
+Asus Prime Z790-P Wifi D5
 ___
-**RAM**: ~Komputerbay 1GB DDR SODIMM~ => ~ASUS Laptop 8G~ => Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16
+**RAM**:
+~Komputerbay 1GB DDR SODIMM~
+~ASUS Laptop 8G~
+~Corsair Vengeance RGB Pro 2x16GB 3200MHz CL16~
+G.Skill Trident Z5 RGB 2x16GB 6000Mhz CL36
 ___
 **Power**: Thermaltake Smart RGB 700W Standard
 ___
@@ -18,13 +28,22 @@ ___
 ___
 **Cooler**: Cooler Master Masterliquid ML120L V2 Red
 ___
-**Mouse**: ~AULA S31 800/1000/1200 DPI~ => Logitech G Pro X Superlight Wireless 100-25600 DPI
+**Mouse**:
+~AULA S31 800/1000/1200 DPI~
+Logitech G Pro X Superlight Wireless 100-25600 DPI
 ___
-**Keyboard**: ~ERSCH K-918~ => ~T-Dagger Bora RGB Mechanical~ => Cooler Master MS110 RGB Mechanical-Membrane  Gaming Keyboard
+**Keyboard**:
+~ERSCH K-918~
+~T-Dagger Bora RGB Mechanical~
+Cooler Master MS110 RGB Mechanical-Membrane  Gaming Keyboard
 ___
-**Monitor**: ~ASUS Laptop with 60fps~ => Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
+**Monitor**:
+~ASUS Laptop with 60fps~
+Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
 ___
 **Webcam**: Redragon Hitman GW800
+---
+**Controller**: Playstation 5 DualSense White
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
