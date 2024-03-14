@@ -3,11 +3,12 @@
 **Full information is in [this](https://www.instagram.com/stories/highlights/17917990355294297/) link💛**
 
 **Case**:
-> Sharkoon TG4 RGB
+> Deepcool CH510 Mesh Digital
+>> ~Sharkoon TG4 RGB~
 ___
 **CPU**:
 > Intel Core i7-14700k 20C 28T
->> ~AMD Ryzen 5 5600X Tray 6C 12T~
+>> ~AMD Ryzen 5 5600X 6C 12T~
 ___
 **GPU**:
 > NVIDIA Geforce RTX 3060 OC 12GB
@@ -30,7 +31,9 @@ ___
 > Samsung 980 M.2 NVMe Gen3x4 1TB
 ___
 **Cooler**:
-> Cooler Master Masterliquid ML120L V2 Red
+> DeepCool LS720 Black
+>> ~Thermaltake 1x Fan | Liquid~
+>>> ~Cooler Master Masterliquid ML120L V2 Red (ignored)~
 ___
 **Mouse**:
 > Logitech G Pro X Superlight Wireless 100-25600 DPI
@@ -50,6 +53,7 @@ ___
 ---
 **Controller**:
 > Playstation 5 DualSense White
+>> ~XBox 360 Controller~
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
