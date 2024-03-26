@@ -1,6 +1,6 @@
 # My Gaming Setup
 
-[!!TIP]
+[!TIP]
 **Full information is in [this](https://www.instagram.com/stories/highlights/17917990355294297/) link💛**
 
 **Case**:
