@@ -53,7 +53,7 @@ ___
 > Redragon Hitman GW800
 ___
 **Controller**:
-> Nacon Revolution 5
+> Nacon Revolution 5 Pro
 >> ~Playstation 5 DualSense White~
 >>> ~XBox 360 Controller~
 
