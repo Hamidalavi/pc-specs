@@ -46,8 +46,9 @@ ___
 >>> ~ERSCH K-918~
 ___
 **Monitor**:
-> Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync
->> ~ASUS Laptop with 60fps~
+> TUF Gaming VG249Q1R 24Inch 144 - 165Hz IPS Panel Free-Sync (Borrowed from my brother)
+>> ~Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync~
+>>> ~ASUS Laptop with 60fps~
 ___
 **Webcam**:
 > Redragon Hitman GW800
