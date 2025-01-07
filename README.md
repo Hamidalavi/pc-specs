@@ -12,8 +12,9 @@ ___
 >> ~AMD Ryzen 5 5600X 6C 12T~
 ___
 **GPU**:
-> NVIDIA Geforce RTX 3060 OC 12GB
->> ~NVIDIA Gefore 840M~
+> ROG Strix GeForce RTX 4070 SUPER 12GB GDDR6X OC Edition
+>> ~NVIDIA Geforce RTX 3060 OC 12GB~
+>>> ~NVIDIA Gefore 840M~
 ___
 **Motherboard**:
 > ASUS PRIME Z790-P Wi-Fi D5
@@ -46,7 +47,7 @@ ___
 >>> ~ERSCH K-918~
 ___
 **Monitor**:
-> TUF Gaming VG249Q1R 24Inch 144 - 165Hz IPS Panel Free-Sync (Borrowed from my brother)
+> TUF Gaming VG249Q1R 24Inch 144 - 165Hz IPS Panel Free-Sync
 >> ~Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync~
 >>> ~ASUS Laptop with 60fps~
 ___
