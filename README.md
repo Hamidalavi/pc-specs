@@ -12,7 +12,7 @@ ___
 >> ~AMD Ryzen 5 5600X 6C 12T~
 ___
 **GPU**:
-> ROG Strix GeForce RTX 4070 SUPER 12GB GDDR6X OC Edition
+> ROG Strix GeForce RTX™ 4070 12GB GDDR6X OC Edition
 >> ~NVIDIA Geforce RTX 3060 OC 12GB~
 >>> ~NVIDIA Gefore 840M~
 ___
