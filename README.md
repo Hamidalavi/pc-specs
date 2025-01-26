@@ -3,9 +3,15 @@
 > [!TIP]
 **Full information is in [this](https://www.instagram.com/stories/highlights/17917990355294297/) link💛**
 
+## SYSTEM
+
 **Case**:
 > Deepcool CH510 Mesh Digital
 >> ~Sharkoon TG4 RGB~
+___
+**Motherboard**:
+> ASUS PRIME Z790-P Wi-Fi D5
+>> ~ASUS ROG Strix B550-F Gaming Wi-Fi D4~
 ___
 **CPU**:
 > Intel Core i7-14700k 20C 28T
@@ -15,10 +21,6 @@ ___
 > ROG Strix GeForce RTX™ 4070 12GB GDDR6X OC Edition
 >> ~NVIDIA Geforce RTX 3060 OC 12GB~
 >>> ~NVIDIA Gefore 840M~
-___
-**Motherboard**:
-> ASUS PRIME Z790-P Wi-Fi D5
->> ~ASUS ROG Strix B550-F Gaming Wi-Fi D4~
 ___
 **RAM**:
 > G.Skill Trident Z5 RGB 2x16GB 6000MHz CL36
@@ -36,7 +38,9 @@ ___
 > DeepCool LS720 Black
 >> ~Thermaltake 1x Fan | Liquid~
 >>> ~Cooler Master Masterliquid ML120L V2 Red (ignored)~
-___
+
+## EQUIPMENT
+
 **Mouse**:
 > Logitech G Pro X Superlight Wireless 100-25600 DPI
 >> ~AULA S31 800/1000/1200 DPI~
@@ -51,15 +55,24 @@ ___
 >> ~Acer Nitro KG272S 27Inch 144 - 165Hz HDR IPS Panel Free-Sync~
 >>> ~ASUS Laptop with 60fps~
 ___
-**Webcam**:
-> Redragon Hitman GW800
-___
 **Controller**:
 > Nacon Revolution 5 Pro
 >> ~Playstation 5 DualSense White~
 >>> ~XBox 360 Controller~
+___
+**Webcam**:
+> Redragon Hitman GW800
 
+## GEARS
 
+**MousePad**:
+> Normal Cloth Fortnite Edition 30x80
+___
+**Arm Sleeves**:
+> Normal Women Socks
+___
+**Monitor Holder**:
+> WLA-006 Ergo Four-Monitor Support Stand (Clamp Mode)
 
 ## Donate to our Team:
 [![DonateReymit](https://img.shields.io/badge/Donate-Reymit-purple)](https://reymit.ir/examid6540)
