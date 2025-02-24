@@ -66,7 +66,8 @@ ___
 ## GEARS
 
 **MousePad**:
-> Normal Cloth Fortnite Edition 30x80
+> SkyPAD Wallhack SP-004 Glass Gaming Mousepad 43 x 49 x 0.39cm
+>> ~Normal Cloth Fortnite Edition 30x80cm~
 ___
 **Arm Sleeves**:
 > Normal Women Socks
