@@ -69,6 +69,10 @@ ___
 > SkyPAD Wallhack SP-004 Glass Gaming Mousepad 43 x 49 x 0.39cm
 >> ~Normal Cloth Fortnite Edition 30x80cm~
 ___
+**Mouse Skate**:
+> DIY Universal PTFE Dots
+>> ~Default Mouse Skate~
+___
 **Arm Sleeves**:
 > Normal Women Socks
 ___
