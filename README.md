@@ -70,8 +70,9 @@ ___
 >> ~Normal Cloth Fortnite Edition 30x80cm~
 ___
 **Mouse Skate**:
-> DIY Universal PTFE Dots
->> ~Default Mouse Skate~
+> Wallhack x X-Raypad Obsidian Pro Ultra-High Molecular Weight Polyethylene (UHMW-PE) Universal Plastic Dot Mouse Skates (Black)
+>> ~DIY Universal PTFE Dot Skates~
+>>> ~Default Mouse Skate~
 ___
 **Arm Sleeves**:
 > Normal Women Socks
