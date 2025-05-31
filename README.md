@@ -62,6 +62,16 @@ ___
 ___
 **Webcam**:
 > Redragon Hitman GW800
+___
+**Headset**:
+> Apple Earpods 2 (USB-C)
+>> ~UGREEN Aux Earbuds Earphones (USB-C)~
+>>> ~Havit GAMENOTE HV-H2026D E-SPORTS Headset~
+___
+**Air Conditioner**:
+> Xiaomi Zolele Cycline Fan M55
+>> ~Mediastar MS-AS18000C POLAR- 1.5 Ton- Wall Mounted Split – White~
+>>> ~Hardstone HS-SF12S1 Fan~
 
 ## GEARS
 
@@ -75,7 +85,8 @@ ___
 >>> ~Default Mouse Skate~
 ___
 **Arm Sleeves**:
-> Normal Women Socks
+> Normal Women Arm Sleeves
+>> ~Normal Women Socks~
 ___
 **Monitor Holder**:
 > WLA-006 Ergo Four-Monitor Support Stand (Clamp Mode)
